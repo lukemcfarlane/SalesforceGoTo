@@ -8,7 +8,7 @@ class SalesforceGoToCommand(sublime_plugin.TextCommand):
             if matchingFilePath != None:
                 self.view.window().open_file(matchingFilePath)
             else:
-                print("Error: cannot find file that matches name '" + word + "'")
+                sublime.message_dialog("Cannot find file that matches name '" + word + "'")
         else:
             print("Error: No word highlighted")
 
