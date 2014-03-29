@@ -1,0 +1,5 @@
+[{
+
+	"caption": "Salesforce GoTo: go to currently highlighted file",
+	"command": "salesforce_go_to"
+}]
