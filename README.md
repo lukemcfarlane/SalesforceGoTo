@@ -9,7 +9,7 @@ Go to the currently highlighted class/page in Salesforce.
 Installation
 ------------
 
-Copy the following files into a new folder "SaleseforceGoTo" inside your Sublime Packages directory:
+Copy the following files into a new folder "SalesforceGoTo" inside your Sublime Packages directory:
 - SalesforceGoTo.py
 - Default.sublime-commands
 
